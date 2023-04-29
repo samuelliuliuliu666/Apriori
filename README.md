@@ -10,7 +10,7 @@
 1. `proj3.tar.gz`
 2. `README.md`
 3. `INTEGRATED-DATASET.csv`
-4. `NYPD_Hate_Crimes.csv`
+4. `example-run.txt`
 
 ## How to run the program
 
