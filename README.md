@@ -21,7 +21,7 @@
    - python apriori.py <input_data> <min_sup> <min_conf>
 
 ```sh
-python hw3.py INTEGRATED-DATASET.csv 0.1 0.7
+python apriori.py INTEGRATED-DATASET.csv 0.1 0.7
 ```
 
 
