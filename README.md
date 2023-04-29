@@ -59,10 +59,3 @@ This association rule implies that when a record has the attribute "Religion/Rel
 
 In other words, this rule suggests that there is a strong relationship between the presence of "Religion/Religious Practice" and "ANTI-JEWISH" attributes in the records. Whenever there is an offence categorized as "Religion/Religious Practice", it is very likely that the Bias Motive is "ANTI-JEWISH".
 
-
-1. Google Custom Search API: Used for searching the web.
-2. Beautiful Soup: Used for extracting plain text from webpages.
-3. spaCy: Used for processing and annotating text through linguistic analysis.
-4. SpanBERT: Used for extracting relations from text documents.
-5. OpenAI GPT-3 API: Used as an alternative to SpanBERT for extracting relations from text documents.
-
