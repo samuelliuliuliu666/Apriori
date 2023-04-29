@@ -48,7 +48,7 @@ We excluded the Full Complaint ID from the initial data, considering that each I
 
 
 ## Compelling Sample Run
-Command line specification for a compelling sample run:
+### Command line specification for a compelling sample run:
 [MISCELLANEOUS PENAL LAW] => [AGGRAVATED HARASSMENT 1] (Conf: 95.48%, Supp: 23.5801%)
 This association rule implies that when a record has the attribute "MISCELLANEOUS PENAL LAW," there is a 95.48% confidence (probability) that the record will also have the attribute "AGGRAVATED HARASSMENT 1." The support value of 23.5801% indicates that this rule applies to approximately 23.58% of the total records in the dataset.
 
